@@ -19,4 +19,4 @@ RoadMap:
 
 ## follow pls :( 
 -insta: [amanp.5234](https://www.instagram.com/amanp.5234/)
--discord: amannettic
+ discord: amannettic
