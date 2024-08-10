@@ -85,7 +85,7 @@ const Page = () => {
                                 disabled={!buttonDisabled || loading} 
                                 className="rounded-full font-bold hover:scale-110 hover:bg-opacity-65 transition-all duration-150 w-full bg-amber-500 shadow-md shadow-black py-3"
                             >
-                                <Link href={`/profile/[name]`} as={`/profile/${user.name}?id=${data?.data?._id}`} >
+                                <Link href={`/profile/[name]`} as={`/profile/${user.name}`} >
                                 Login
                                 </Link>
                             </button>
